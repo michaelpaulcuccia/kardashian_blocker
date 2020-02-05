@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "impeachment_blocker",
+    "name": "kardashian_blocker",
     "version": "0.1.0",
     "content_scripts": [
         {

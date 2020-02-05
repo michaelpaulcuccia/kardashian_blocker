@@ -1,1 +1,1 @@
-Chrome Extension to redact any text matching "impeachment".
+Chrome Extension to redact any text matching "kardashian".
