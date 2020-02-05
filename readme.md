@@ -1,0 +1,1 @@
+Chrome Extension to redact any text matching "impeachment".
