@@ -1,1 +1,1 @@
-Chrome Extension to redact any text matching "kardashian".
+Chrome Extension. Will redact text matching "Kardashian".
